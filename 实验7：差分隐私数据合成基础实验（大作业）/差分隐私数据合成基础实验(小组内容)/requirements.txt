@@ -1,0 +1,6 @@
+matplotlib
+numpy
+random
+math
+csv
+mpl_toolkits.mplot3d
